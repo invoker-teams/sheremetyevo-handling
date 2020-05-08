@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<geozoneType id="2225" ver="2">
+    <uuid>0932b901-96f0-4789-ae85-6cccc7b8107e</uuid>
+    <name>85 (R) (Тест)</name>
+    <type>Polygon</type>
+    <color>#005824</color>
+    <transparency>50</transparency>
+    <allowed-speed>15.0</allowed-speed>
+    <use-as-address>false</use-as-address>
+    <enable-speed-monitoring>false</enable-speed-monitoring>
+    <status>1</status>
+    <geozone-root-id>1</geozone-root-id>
+    <geometry type="1">
+        <point x="37.445293" y="55.982128"/>
+        <point x="37.44524" y="55.981975"/>
+        <point x="37.445335" y="55.981912"/>
+        <point x="37.445555" y="55.981885"/>
+        <point x="37.445728" y="55.981908"/>
+        <point x="37.445847" y="55.982025"/>
+        <point x="37.445806" y="55.982128"/>
+        <point x="37.445502" y="55.982179"/>
+        <point x="37.445293" y="55.982128"/>
+    </geometry>
+</geozoneType>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<geozoneType id="2133" ver="2">
+    <uuid>18da28da-4b30-468c-afe3-8e0e6712f865</uuid>
+    <name>АЗС ЮТК</name>
+    <type>Polygon</type>
+    <color>#fda7b2</color>
+    <transparency>50</transparency>
+    <allowed-speed>60.0</allowed-speed>
+    <use-as-address>false</use-as-address>
+    <enable-speed-monitoring>false</enable-speed-monitoring>
+    <status>1</status>
+    <geozone-root-id>1</geozone-root-id>
+    <geometry type="1">
+        <point x="37.427765" y="55.969815"/>
+        <point x="37.427925" y="55.969517"/>
+        <point x="37.428955" y="55.969692"/>
+        <point x="37.428811" y="55.969986"/>
+        <point x="37.427765" y="55.969815"/>
+    </geometry>
+</geozoneType>
